@@ -6,10 +6,7 @@ sections:
     image: images/melem.jpg
     image_alt: App preview
     title: This Is A Big Hero Headline
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
